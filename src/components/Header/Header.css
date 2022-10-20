@@ -1,0 +1,16 @@
+.header a{
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 2px 5px;
+}
+.header a:hover{
+    background-color: gray;
+}
+.active{
+   
+    background-color: rgba(165, 42, 42, 0.439);
+}
+.header{
+    background-color: rgba(208, 226, 43, 0.568);
+    padding: 20px;
+}
